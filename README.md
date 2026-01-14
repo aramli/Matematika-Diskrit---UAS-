@@ -24,6 +24,7 @@ Tujuan utamanya:
     <li>BFS (Breadth First Search): algoritma penelusuran graf dengan cara melebar atau level per level, menelusuri simpul yang berdekatan terlebih dahulu.</li>
     <li>Iteratif vs Rekursif: DFS bisa ditulis dengan cara rekursif (fungsi memanggil dirinya sendiri) atau iteratif (menggunakan stack).</li>
   </ul>
+  <br><br>
   
   <li>Penjelasan Kode</li>
   <img src="https://github.com/aramli/Matematika-Diskrit---UAS-/raw/main/img/1.png" width="850"/><br>
