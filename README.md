@@ -64,5 +64,5 @@ Tujuan utamanya:
  Ketika program menjalankan BFS mulai dari simpul 0, urutan simpul yang dikunjungi adalah 0 → 1 → 2 → 3. Bedanya dengan DFS, BFS menelusuri simpul secara melebar.    Dari simpul 0, algoritma mengunjungi semua tetangga langsung yaitu 1 dan 2. Setelah itu, BFS melanjutkan ke simpul berikutnya dalam antrian, yaitu 3 yang merupakan  tetangga dari 2. Traversal selesai setelah semua simpul dikunjungi. Jadi, hasil BFS menunjukkan pola penelusuran yang fokus ke simpul-simpul yang berdekatan terlebih dahulu sebelum pindah ke level berikutnya.
 <br><br>
 <li>Link Youtube Video Penjelasan Prgram</li>
-
+https://youtu.be/zYEnKk1kj58
 </ul>
